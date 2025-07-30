@@ -1,4 +1,6 @@
-# Pymaceuticals Module 5: Data Analysis and Visualization
+# pymaceuticals-drug-data-analysis-and-visualization
+
+Pymaceuticals Module 5: Data Analysis and Visualization
 
 **Date:** 2024-04-04  
 **Author:** Sultan Raheem  
